@@ -1,1 +1,6 @@
-# amiap
+
+### Installation
+```
+npm install
+
+```
